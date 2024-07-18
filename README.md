@@ -17,7 +17,8 @@ The SRCNN model can be found at `/model/SRCNN.ipynb`
 ### SRGAN
 ![SRGAN Comparision](./screenshots/SRGAN_compare.jpg)
 
-The SRGAN model was provided by [Xintao (Github)](https://github.com/xinntao)  
+The SRGAN model was provided by [Xintao (Github)](https://github.com/xinntao).  
+#### 🔗 [Github repository](https://github.com/xinntao/Real-ESRGAN)
 
 ## Getting started
 ### Installing dependencies
